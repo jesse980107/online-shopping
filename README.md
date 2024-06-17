@@ -8,7 +8,7 @@ This project aims to analyze online shopping intentions using a classification m
 
 The normalized confusion matrix visualizes the performance of the classification model. Below is the normalized confusion matrix:
 
-![Normalized Confusion Matrix](image.png)
+![Normalized Confusion Matrix](Normalized Confusion Matrix.png)
 
 ### Interpretation
 
